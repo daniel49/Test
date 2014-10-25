@@ -18,6 +18,7 @@ public class mainClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Main function");
+		System.out.println(" with no parameters...");
 	}
 
 }

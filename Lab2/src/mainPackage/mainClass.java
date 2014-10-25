@@ -19,6 +19,7 @@ public class mainClass {
 		// TODO Auto-generated method stub
 		System.out.println("Main function");
 		System.out.println(" with no parameters...");
+		System.out.println(" and no return value...");
 	}
 
 }
